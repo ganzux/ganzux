@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Álvaro! 👋
+
+- 😄 I am a nerd. A geek. A proud one :)
+- 🔭 I’m currently working for Optum, United Health, as a Technical/Team leader.
+- 🌱 I’m currently learning Machine Learning and Big Data! Should I apply for that Masters???
+- 👯 I’m looking to collaborate on interesting Java / Python projets!
+- 📫 How to reach me: Linkedin -> www.ganzux.com
+
 
 <!--
 **ganzux/ganzux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
