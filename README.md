@@ -1,7 +1,7 @@
 ### Hi there, my name is Álvaro! 👋
 
 - 😄 I am a nerd. A geek. A proud one :)
-- 🔭 I’m currently working for Optum, United Health, as a Technical/Team leader.
+- 🔭 I’m currently working for Salesforce, as a Team Lead Engineer.
 - 🌱 I’m currently learning Machine Learning and Big Data! Should I apply for that Masters???
 - 👯 I’m looking to collaborate on interesting Java / Python projets!
 - 📫 How to reach me: Linkedin -> www.ganzux.com
